@@ -6,4 +6,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThainaraCamargo&layout=compact)](https://github.com/ThainaraCamargo/github-readme-stats)
 
 
-Apaixonada pela tecnologia desde a infância, me descobrindo em front-end. Também possuo interesse em desenvolver interfaces práticas e funcionais para aplicativos. 
+Apaixonada pela tecnologia desde a infância e me descobrindo em front-end. Também possuo interesse em desenvolver interfaces práticas e funcionais para aplicativos. 
